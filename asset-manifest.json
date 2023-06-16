@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cebes-kitchen/static/css/main.4da62354.css",
+    "main.js": "/cebes-kitchen/static/js/main.e1d69006.js",
+    "static/media/saltedEgg.jpg": "/cebes-kitchen/static/media/saltedEgg.328452e5a667f1c49d69.jpg",
+    "static/media/spicyWings.jpg": "/cebes-kitchen/static/media/spicyWings.c07e8731d9e7e95269f4.jpg",
+    "static/media/buffaloWings.jpg": "/cebes-kitchen/static/media/buffaloWings.44a770156ca525a18913.jpg",
+    "static/media/chopsuey.jpg": "/cebes-kitchen/static/media/chopsuey.1d83efe62b0030a03073.jpg",
+    "static/media/kinilaw.jpg": "/cebes-kitchen/static/media/kinilaw.6e95b499cb900295d8cf.jpg",
+    "static/media/main-course.jpg": "/cebes-kitchen/static/media/main-course.627e35e6cb6af3287880.jpg",
+    "static/media/cebes-kitchen.jpg": "/cebes-kitchen/static/media/cebes-kitchen.8fb39e2d474c70306cce.jpg",
+    "static/media/lechonKawali.jpg": "/cebes-kitchen/static/media/lechonKawali.5c1f9415af781bbe0ba5.jpg",
+    "static/media/calamaris.jpg": "/cebes-kitchen/static/media/calamaris.81d449b3c6a54ce4049f.jpg",
+    "static/media/location1.jpg": "/cebes-kitchen/static/media/location1.459ca24a629096eebcff.jpg",
+    "static/media/sweetChili.jpg": "/cebes-kitchen/static/media/sweetChili.fb1aaa48fffdb117bc62.jpg",
+    "static/media/sisig1.jpg": "/cebes-kitchen/static/media/sisig1.ab53cc2d839b85d7508b.jpg",
+    "static/media/sinuglaw.jpg": "/cebes-kitchen/static/media/sinuglaw.8862cbc198aab1a58930.jpg",
+    "static/media/ButteredChicken.jpg": "/cebes-kitchen/static/media/ButteredChicken.624b1344a9d63a05cd3f.jpg",
+    "static/media/noodles1.jpg": "/cebes-kitchen/static/media/noodles1.a36da687b58d96991f73.jpg",
+    "static/media/value-meal.jpg": "/cebes-kitchen/static/media/value-meal.f739fee809b042f75063.jpg",
+    "static/media/soup.jpg": "/cebes-kitchen/static/media/soup.cda7879f6a1a5d858d00.jpg",
+    "index.html": "/cebes-kitchen/index.html",
+    "main.4da62354.css.map": "/cebes-kitchen/static/css/main.4da62354.css.map",
+    "main.e1d69006.js.map": "/cebes-kitchen/static/js/main.e1d69006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.e1d69006.js"
+  ]
+}
